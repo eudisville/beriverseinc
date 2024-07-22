@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eudisville/beriverseinc.git/static/css/main.c89eea14.css",
+    "main.js": "/eudisville/beriverseinc.git/static/js/main.87ab3762.js",
+    "static/media/Softback.jpg": "/eudisville/beriverseinc.git/static/media/Softback.31126f238984f6fa2acd.jpg",
+    "static/media/ai.jpg": "/eudisville/beriverseinc.git/static/media/ai.d1238583afa77bf3de29.jpg",
+    "static/media/background.jpg": "/eudisville/beriverseinc.git/static/media/background.2ef75b63d18d4cf30203.jpg",
+    "index.html": "/eudisville/beriverseinc.git/index.html",
+    "main.c89eea14.css.map": "/eudisville/beriverseinc.git/static/css/main.c89eea14.css.map",
+    "main.87ab3762.js.map": "/eudisville/beriverseinc.git/static/js/main.87ab3762.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89eea14.css",
+    "static/js/main.87ab3762.js"
+  ]
+}
