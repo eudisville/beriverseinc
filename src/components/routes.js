@@ -2,6 +2,7 @@ import Home from '../pages/Home'
 import Ia from '../pages/Ia'
 import Software from '../pages/Software'
 import Cyber from '../pages/Cyber'
+import Api from '../pages/Api'
 import Learn from '../pages/Learn'
 
 const routes = [
@@ -24,6 +25,11 @@ const routes = [
         path: '/cybersecurity',
         name: 'Cybersecurity',
         component: Cyber
+    },
+    {
+        path: '/api',
+        name: 'Api',
+        component: Api
     },
     {
         path: '/learn',
