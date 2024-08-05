@@ -5,8 +5,19 @@
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     background: black;
     color: white;
     text-transform: uppercase;
+    padding: 0 40px;
+}
+
+.footer-right {
+    display: flex;
+}
+
+.footer-right h5 {
+    margin: 20px;
+    text-transform: capitalize;
+    font-weight: 400;
 }
