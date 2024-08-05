@@ -1,9 +1,6 @@
 import Home from '../pages/Home'
-import Ia from '../pages/Ia'
-import Software from '../pages/Software'
-import Cyber from '../pages/Cyber'
-import Api from '../pages/Api'
-import Learn from '../pages/Learn'
+import Contact from '../pages/Contact'
+import Products from '../pages/Products'
 
 const routes = [
     {
@@ -12,30 +9,15 @@ const routes = [
         component: Home
     },
     {
-        path: '/software',
-        name: 'Software',
-        component: Software
+        path: '/products',
+        name: 'Products',
+        component: Products
     },
     {
-        path: '/ai',
-        name: 'Artificial Intelligence',
-        component: Ia
-    },
-    {
-        path: '/cybersecurity',
-        name: 'Cybersecurity',
-        component: Cyber
-    },
-    {
-        path: '/api',
-        name: 'Api',
-        component: Api
-    },
-    {
-        path: '/learn',
-        name: 'Learn',
-        component: Learn
+        path: '/contact',
+        name: 'Contact Us',
+        component: Contact
     },
 ]
 
-export default routes
+export default routes;

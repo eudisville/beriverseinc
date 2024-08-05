@@ -6,7 +6,13 @@
     color: white;
     flex-direction: column;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    text-align: left;
+    cursor: pointer;
+}
+
+.blog-item h4{
+    font-size: 27px;
 }
   
 .back1 {
@@ -16,7 +22,13 @@
 }
   
 .back2 {
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,2)), url('/public/data.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('/public/data.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.back3 {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('/public/agro.jpg');
     background-size: cover;
     background-position: center;
 }

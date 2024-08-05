@@ -80,13 +80,16 @@ function Home() {
             <p>We regularly share updates about our company, the development of the Amini platform, and research to advance our mission to becoming the single source of truth for African environmental data.</p>
             <div className="blog-item">
               <Blog className="back1">
-
+                <h5>NEWS</h5>
+                <h4>Artificial Intelligence</h4>
               </Blog>
               <Blog className="back2">
-
+                <h5>RESEARCH</h5>
+                <h4>Data Science</h4>
               </Blog>
-              <Blog className="back1">
-
+              <Blog className="back3">
+                <h5>NEWS</h5>
+                <h4>Agriculture Technology</h4>
               </Blog>
             </div>
           </div>
