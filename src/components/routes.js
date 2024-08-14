@@ -1,6 +1,7 @@
 import Home from '../pages/Home'
 import Contact from '../pages/Contact'
-import Products from '../pages/Products'
+import Services from '../pages/Services'
+import Project from '../pages/Project';
 
 const routes = [
     {
@@ -9,9 +10,14 @@ const routes = [
         component: Home
     },
     {
-        path: '/products',
-        name: 'Products',
-        component: Products
+        path: '/services',
+        name: 'Services',
+        component: Services
+    },
+    {
+        path: '/projects',
+        name: 'Projects',
+        component: Project
     },
     {
         path: '/contact',

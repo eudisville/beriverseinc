@@ -12,6 +12,7 @@ function Footer() {
         <h5>Instagram</h5>
         <h5>Twitter</h5>
         <h5>Gmail</h5>
+        <h5>LinkedIn</h5>
       </div>
     </div>
   )

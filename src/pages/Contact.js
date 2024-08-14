@@ -1,5 +1,5 @@
 import React from 'react'
-import IaHeader from '../components/IA/IaHeader'
+import IaHeader from '../components/Contact/IaHeader'
 
 function Ia() {
   return (

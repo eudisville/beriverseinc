@@ -1,13 +1,15 @@
 section {
     height: 100vh;
     width: 100%;
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .section-items {
-    margin-top: 70px;
+    padding-top: 70px;
+    color: white;
 }
 
 .section-text {
@@ -30,7 +32,7 @@ section {
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 300;
-    color: rgb(0, 78, 126);
+    color: white;
     letter-spacing: 10px;
     margin-bottom: 10px;
 }
@@ -46,13 +48,17 @@ section {
     margin-top: 50px;
 }
 
+.teams {
+    color: white;
+}
+
 .team-text {
     text-align: center;
 }
 
 .team-text h5 {
     font-size: 16px;
-    color: rgb(0, 78, 126);
+    color: white;
     font-weight: 300;
     letter-spacing: 10px;
 }

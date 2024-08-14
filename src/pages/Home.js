@@ -2,8 +2,7 @@ import React from 'react'
 import Header from '../components/Home/Header'
 import About from '../components/Home/About'
 import Card from '../components/Card'
-import Team from '../components/Team'
-import Blog from '../components/Blog'
+import BlogCard from '../components/BlogCard'
 import './style.css'
 
 function Home() {
@@ -29,7 +28,7 @@ function Home() {
             </div>
 
             <div className="cards">
-              <Card backgroundColor='rgb(0, 78, 126)'>
+              <Card backgroundColor='black  '>
                 <div className="item-left"></div>
                 <div className="item-right"></div>
               </Card>
@@ -40,28 +39,8 @@ function Home() {
         <section className="teams">
           <div className="team">
             <div className="team-text">
-              <h5>BERIVERSE TEAM</h5>
-              <h1>Discover Our Direction Team</h1>
-            </div>
-
-            <div className="team-items">
-
-              <Team className="background1">
-                <div className="top"></div>
-                <div className="bottom">
-                  <h3>Eudes-Mondesir <span>KOFFI</span></h3>
-                  <h5>Head of Software</h5>
-                </div>
-              </Team>
-
-              <Team className="background1">
-                <div className="top"></div>
-                <div className="bottom">
-                  <h3>Tresor <span>OUPHOUET</span></h3>
-                  <h5>Head of Cybersecurity</h5>
-                </div>
-              </Team>
-
+              <h5>WHAT WE DO</h5>
+              <h1>Let Us Embark With Us</h1>
             </div>
           </div>
         </section>
@@ -76,21 +55,21 @@ function Home() {
 
         <section className='blog'>
           <div className="blog-items">
-            <h1>Stay up to date on our latest news</h1>
+            <h1>Stay up to date on our latest projects</h1>
             <p>We regularly share updates about our company, the development of the Amini platform, and research to advance our mission to becoming the single source of truth for African environmental data.</p>
             <div className="blog-item">
-              <Blog className="back1">
+              <BlogCard className="back1">
                 <h5>NEWS</h5>
                 <h4>Artificial Intelligence</h4>
-              </Blog>
-              <Blog className="back2">
+              </BlogCard>
+              <BlogCard className="back2">
                 <h5>RESEARCH</h5>
                 <h4>Data Science</h4>
-              </Blog>
-              <Blog className="back3">
+              </BlogCard>
+              <BlogCard className="back3">
                 <h5>NEWS</h5>
                 <h4>Agriculture Technology</h4>
-              </Blog>
+              </BlogCard>
             </div>
           </div>
         </section>
