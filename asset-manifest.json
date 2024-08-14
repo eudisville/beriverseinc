@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/eudisville/beriverseinc.git/static/css/main.c89eea14.css",
-    "main.js": "/eudisville/beriverseinc.git/static/js/main.87ab3762.js",
-    "static/media/Softback.jpg": "/eudisville/beriverseinc.git/static/media/Softback.31126f238984f6fa2acd.jpg",
+    "main.css": "/eudisville/beriverseinc.git/static/css/main.3d46d773.css",
+    "main.js": "/eudisville/beriverseinc.git/static/js/main.55a9632b.js",
+    "static/media/Join.jpg": "/eudisville/beriverseinc.git/static/media/Join.e965a2c6aaa0835d167a.jpg",
+    "static/media/agro.jpg": "/eudisville/beriverseinc.git/static/media/agro.1ea8864e6d4a96493d21.jpg",
+    "static/media/data.jpg": "/eudisville/beriverseinc.git/static/media/data.b28ace693aa7eceaf42e.jpg",
+    "static/media/art.jpg": "/eudisville/beriverseinc.git/static/media/art.2b2d6d5a80c405877fa1.jpg",
     "static/media/ai.jpg": "/eudisville/beriverseinc.git/static/media/ai.d1238583afa77bf3de29.jpg",
     "static/media/background.jpg": "/eudisville/beriverseinc.git/static/media/background.2ef75b63d18d4cf30203.jpg",
+    "static/media/mo.jpg": "/eudisville/beriverseinc.git/static/media/mo.a1930f17d8c1cc75ab22.jpg",
+    "static/media/science.jpg": "/eudisville/beriverseinc.git/static/media/science.f42ecb4bc8e4c4ed24be.jpg",
     "index.html": "/eudisville/beriverseinc.git/index.html",
-    "main.c89eea14.css.map": "/eudisville/beriverseinc.git/static/css/main.c89eea14.css.map",
-    "main.87ab3762.js.map": "/eudisville/beriverseinc.git/static/js/main.87ab3762.js.map"
+    "main.3d46d773.css.map": "/eudisville/beriverseinc.git/static/css/main.3d46d773.css.map",
+    "main.55a9632b.js.map": "/eudisville/beriverseinc.git/static/js/main.55a9632b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c89eea14.css",
-    "static/js/main.87ab3762.js"
+    "static/css/main.3d46d773.css",
+    "static/js/main.55a9632b.js"
   ]
 }
